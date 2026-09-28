@@ -201,3 +201,38 @@ Having the following details ready will help the technician resolve your issue f
 3. **Status Indicators:** The exact state and color of the lights on your network devices.
 4. **Error Logs:** Exact error codes or pop-up messages displayed on your devices.
 5. **Timeline & Scope:** When the issue started, whether it affects one or all devices, and the troubleshooting steps you have already performed.
+## Conclusion
+
+Wi-Fi connectivity problems are common and can often be resolved through simple and systematic troubleshooting steps. This guide has presented practical methods for identifying and resolving common issues, including inability to connect to Wi-Fi, lack of Internet access, slow connections, weak signals, and frequent disconnections.
+
+By following the recommended checks and troubleshooting procedures, users can identify whether the problem is related to their device, Wi-Fi network, router, or Internet service. The quick troubleshooting checklist also provides an efficient way to resolve basic problems before seeking technical assistance.
+
+However, some issues may require professional support, especially when multiple devices are affected, network equipment shows warning signs, or the problem continues after completing the recommended steps. Knowing when to continue troubleshooting and when to contact technical support can save time and help restore a reliable Internet connection more efficiently.
+
+Overall, this guide aims to provide users with a clear and practical approach to Wi-Fi troubleshooting, enabling them to handle common connectivity problems with greater confidence and determine the appropriate next step when further assistance is required.
+
+## References
+
+1. IEEE 802.11 Working Group. Wireless LAN Standards. IEEE.
+    https://www.ieee802.org/11/
+    Official information on IEEE 802.11 wireless LAN standards and specifications.
+2. Microsoft Support. Fix Wi-Fi Connection Issues in Windows. Microsoft.
+    https://support.microsoft.com/windows/fix-wi-fi-connection-issues-in-windows
+    Step-by-step solutions for common Wi-Fi connection problems in Windows.
+3. Microsoft Learn. Wireless Network Troubleshooting. Microsoft.
+    https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/wireless-network-connectivity-issues-troubleshooting
+    Official guidance for diagnosing and troubleshooting wireless network connectivity issues.
+4. Apple Support. If You Can’t Connect to Wi-Fi on Your iPhone or iPad. Apple.
+    https://support.apple.com/111786
+    Official troubleshooting guidance for Wi-Fi connectivity problems on Apple devices.
+5. Cisco. Wireless Documentation. Cisco.
+    https://www.cisco.com/c/en/us/support/wireless/index.html
+    Professional documentation covering wireless networking technologies and troubleshooting.
+6. Google Android Help. Fix Internet Connection Problems on Android Devices. Google.
+    Official guidance for troubleshooting Internet and Wi-Fi connectivity problems on Android devices.
+7. Kurose, J. F., & Ross, K. W. Computer Networking: A Top-Down Approach. Pearson.
+    https://www.pearson.com/en-us/subject-catalog/p/computer-networking-a-top-down-approach/P200000003192
+    Academic textbook covering computer networking concepts and wireless communication.
+8. Stallings, W. Data and Computer Communications. Pearson.
+    https://www.pearson.com/en-us/subject-catalog/p/data-and-computer-communications/P200000003060
+    Comprehensive reference covering computer networks, data communication, and communication systems.
